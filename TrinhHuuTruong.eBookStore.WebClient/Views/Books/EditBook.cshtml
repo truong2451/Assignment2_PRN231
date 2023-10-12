@@ -1,0 +1,98 @@
+﻿@model TrinhHuuTruong.eBookStore.Repositories.Entity_Model.Book
+@{
+    ViewData["Title"] = "Edit Book";
+}
+
+<h1>Edit Product</h1>
+
+<div class="row">
+    <div class="col-md-6">
+        <form asp-action="EditBook">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="BookId" />
+
+            <div class="form-group">
+                <label for="BookName">Book Name</label>
+                <input asp-for="BookName" class="form-control" />
+                <span asp-validation-for="BookName" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label for="Title">Title</label>
+                <input asp-for="Title" class="form-control" />
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label for="Type">Type</label>
+                <input asp-for="Type" class="form-control" />
+                <span asp-validation-for="Type" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label for="PublisherId">PublisherId</label>
+                <select asp-for="PublisherId" class="form-control" asp-items="ViewBag.PublisherId"></select>
+                <span asp-validation-for="PublisherId" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label for="Price">Price</label>
+                <input asp-for="Price" class="form-control" />
+                <span asp-validation-for="Price" class="text-danger"></span>
+                @if (ViewData["Price"] != null)
+                {
+                    <span style="color:red;">@ViewData["Price"]</span>
+                }
+            </div>
+
+            <div class="form-group">
+                <label for="Advance">Advance</label>
+                <input asp-for="Advance" class="form-control" />
+                <span asp-validation-for="Advance" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label for="Royalty">Royalty</label>
+                <input asp-for="Royalty" class="form-control" />
+                <span asp-validation-for="Royalty" class="text-danger"></span>
+                @if (ViewData["Royalty"] != null)
+                {
+                    <span style="color:red;">@ViewData["Royalty"]</span>
+                }
+            </div>
+
+            <div class="form-group">
+                <label for="YtdSales">YtdSales</label>
+                <input asp-for="YtdSales" class="form-control" type="number"/>
+                <span asp-validation-for="YtdSales" class="text-danger"></span>
+                @if (ViewData["YtdSales"] != null)
+                {
+                    <span style="color:red;">@ViewData["YtdSales"]</span>
+                }
+            </div>
+
+            <div class="form-group">
+                <label for="Notes">Notes</label>
+                <input asp-for="Notes" class="form-control" />
+                <span asp-validation-for="Notes" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label for="PublishedDate">PublishedDate</label>
+                <input asp-for="PublishedDate" class="form-control" />
+                <span asp-validation-for="PublishedDate" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <button type="submit" class="btn btn-primary">Save</button>
+                <a asp-action="ViewBook" class="btn btn-secondary">Back to List</a>
+            </div>
+        </form>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

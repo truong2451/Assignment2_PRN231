@@ -1,0 +1,51 @@
+﻿@model TrinhHuuTruong.eBookStore.Repositories.Entity_Model.Book
+@{
+    ViewData["Title"] = "Delete Book";
+}
+
+<h1>Delete Book</h1>
+
+<div>
+    <h4>Book Information</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">Book Name:</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.BookName)</dd>
+
+        <dt class="col-sm-2">Title:</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.Title)</dd>
+
+        <dt class="col-sm-2">Type:</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.Type)</dd>
+
+        <dt class="col-sm-2">PublisherId:</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.PublisherId)</dd>
+
+        <dt class="col-sm-2">Price:</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.Price)</dd>
+
+        <dt class="col-sm-2">Advance:</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.Advance)</dd>
+
+        <dt class="col-sm-2">Royalty:</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.Royalty)</dd>
+
+        <dt class="col-sm-2">YtdSales:</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.YtdSales)</dd>
+
+        <dt class="col-sm-2">Notes:</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.Notes)</dd>
+
+        <dt class="col-sm-2">PublishedDate:</dt>
+        <dd class="col-sm-10">@Html.DisplayFor(model => model.PublishedDate)</dd>
+    </dl>
+
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="BookId" />
+        <div class="mt-3">
+            <p class="text-danger">Are you sure you want to delete this product?</p>
+            <button type="submit" class="btn btn-danger">Delete</button>
+            <a asp-action="ViewBook" class="btn btn-secondary">Cancel</a>
+        </div>
+    </form>
+</div>

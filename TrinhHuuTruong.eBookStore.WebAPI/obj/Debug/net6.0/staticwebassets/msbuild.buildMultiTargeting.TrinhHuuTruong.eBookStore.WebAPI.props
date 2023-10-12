@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TrinhHuuTruong.eBookStore.WebAPI.props" />
+</Project>

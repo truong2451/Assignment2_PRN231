@@ -1,0 +1,14 @@
+D:\Net API\TrinhHuuTruong.eBookStore\Repositories\bin\Debug\net6.0\TrinhHuuTruong.eBookStore.Repositories.deps.json
+D:\Net API\TrinhHuuTruong.eBookStore\Repositories\bin\Debug\net6.0\TrinhHuuTruong.eBookStore.Repositories.dll
+D:\Net API\TrinhHuuTruong.eBookStore\Repositories\bin\Debug\net6.0\TrinhHuuTruong.eBookStore.Repositories.pdb
+D:\Net API\TrinhHuuTruong.eBookStore\Repositories\obj\Debug\net6.0\TrinhHuuTruong.eBookStore.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Net API\TrinhHuuTruong.eBookStore\Repositories\obj\Debug\net6.0\TrinhHuuTruong.eBookStore.Repositories.AssemblyInfoInputs.cache
+D:\Net API\TrinhHuuTruong.eBookStore\Repositories\obj\Debug\net6.0\TrinhHuuTruong.eBookStore.Repositories.AssemblyInfo.cs
+D:\Net API\TrinhHuuTruong.eBookStore\Repositories\obj\Debug\net6.0\TrinhHuuTruong.eBookStore.Repositories.csproj.CoreCompileInputs.cache
+D:\Net API\TrinhHuuTruong.eBookStore\Repositories\obj\Debug\net6.0\TrinhHuuTruong.eBookStore.Repositories.dll
+D:\Net API\TrinhHuuTruong.eBookStore\Repositories\obj\Debug\net6.0\refint\TrinhHuuTruong.eBookStore.Repositories.dll
+D:\Net API\TrinhHuuTruong.eBookStore\Repositories\obj\Debug\net6.0\TrinhHuuTruong.eBookStore.Repositories.pdb
+D:\Net API\TrinhHuuTruong.eBookStore\Repositories\obj\Debug\net6.0\ref\TrinhHuuTruong.eBookStore.Repositories.dll
+D:\Net API\TrinhHuuTruong.eBookStore\Repositories\bin\Debug\net6.0\TrinhHuuTruong.eBookStore.Repositories.runtimeconfig.json
+D:\Net API\TrinhHuuTruong.eBookStore\Repositories\obj\Debug\net6.0\TrinhHuuTruong.eBookStore.Repositories.csproj.AssemblyReference.cache
+D:\Net API\TrinhHuuTruong.eBookStore\Repositories\obj\Debug\net6.0\TrinhHuuTruong.eBookStore.Repositories.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\Net API\TrinhHuuTruong.eBookStore\TrinhHuuTruong.eBookStore.Services\bin\Debug\net6.0\TrinhHuuTruong.eBookStore.Services.deps.json
+D:\Net API\TrinhHuuTruong.eBookStore\TrinhHuuTruong.eBookStore.Services\bin\Debug\net6.0\TrinhHuuTruong.eBookStore.Services.dll
+D:\Net API\TrinhHuuTruong.eBookStore\TrinhHuuTruong.eBookStore.Services\bin\Debug\net6.0\TrinhHuuTruong.eBookStore.Services.pdb
+D:\Net API\TrinhHuuTruong.eBookStore\TrinhHuuTruong.eBookStore.Services\bin\Debug\net6.0\TrinhHuuTruong.eBookStore.Repositories.dll
+D:\Net API\TrinhHuuTruong.eBookStore\TrinhHuuTruong.eBookStore.Services\bin\Debug\net6.0\TrinhHuuTruong.eBookStore.Repositories.pdb
+D:\Net API\TrinhHuuTruong.eBookStore\TrinhHuuTruong.eBookStore.Services\obj\Debug\net6.0\TrinhHuuTruong.eBookStore.Services.csproj.AssemblyReference.cache
+D:\Net API\TrinhHuuTruong.eBookStore\TrinhHuuTruong.eBookStore.Services\obj\Debug\net6.0\TrinhHuuTruong.eBookStore.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Net API\TrinhHuuTruong.eBookStore\TrinhHuuTruong.eBookStore.Services\obj\Debug\net6.0\TrinhHuuTruong.eBookStore.Services.AssemblyInfoInputs.cache
+D:\Net API\TrinhHuuTruong.eBookStore\TrinhHuuTruong.eBookStore.Services\obj\Debug\net6.0\TrinhHuuTruong.eBookStore.Services.AssemblyInfo.cs
+D:\Net API\TrinhHuuTruong.eBookStore\TrinhHuuTruong.eBookStore.Services\obj\Debug\net6.0\TrinhHuuTruong.eBookStore.Services.csproj.CoreCompileInputs.cache
+D:\Net API\TrinhHuuTruong.eBookStore\TrinhHuuTruong.eBookStore.Services\obj\Debug\net6.0\TrinhHuuTruong.eBookStore.Services.csproj.CopyComplete
+D:\Net API\TrinhHuuTruong.eBookStore\TrinhHuuTruong.eBookStore.Services\obj\Debug\net6.0\TrinhHuuTruong.eBookStore.Services.dll
+D:\Net API\TrinhHuuTruong.eBookStore\TrinhHuuTruong.eBookStore.Services\obj\Debug\net6.0\refint\TrinhHuuTruong.eBookStore.Services.dll
+D:\Net API\TrinhHuuTruong.eBookStore\TrinhHuuTruong.eBookStore.Services\obj\Debug\net6.0\TrinhHuuTruong.eBookStore.Services.pdb
+D:\Net API\TrinhHuuTruong.eBookStore\TrinhHuuTruong.eBookStore.Services\obj\Debug\net6.0\ref\TrinhHuuTruong.eBookStore.Services.dll

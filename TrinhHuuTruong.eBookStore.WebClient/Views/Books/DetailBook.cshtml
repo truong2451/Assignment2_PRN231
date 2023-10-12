@@ -1,0 +1,80 @@
+﻿@* @model TrinhHuuTruong.eBookStore.Repositories.Entity_Model.Book *@
+@model BooksDetailVM
+
+@{
+    ViewData["Title"] = "Book Details";
+}
+
+<h1>Book Details</h1>
+
+<div class="row">
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-body">
+                <h4 class="card-title">Book Information</h4>
+                <hr />
+                <dl class="row">
+                    <dt class="col-sm-4">Book Name:</dt>
+                    <dd class="col-sm-8">@Html.DisplayFor(model => model.Book.BookName)</dd>
+
+                    <dt class="col-sm-4">Title:</dt>
+                    <dd class="col-sm-8">@Html.DisplayFor(model => model.Book.Title)</dd>
+
+                    <dt class="col-sm-4">Type:</dt>
+                    <dd class="col-sm-8">@Html.DisplayFor(model => model.Book.Type)</dd>
+
+                    <dt class="col-sm-4">Publisher:</dt>
+                    <dd class="col-sm-8">@Html.DisplayFor(model => model.Book.Publisher.PublisherName)</dd>
+
+                    <dt class="col-sm-4">Price:</dt>
+                    <dd class="col-sm-8">@Html.DisplayFor(model => model.Book.Price)</dd>
+
+                    <dt class="col-sm-4">Advance:</dt>
+                    <dd class="col-sm-8">@Html.DisplayFor(model => model.Book.Advance)</dd>
+
+                    <dt class="col-sm-4">Royalty:</dt>
+                    <dd class="col-sm-8">@Html.DisplayFor(model => model.Book.Royalty)</dd>
+
+                    <dt class="col-sm-4">YtdSales:</dt>
+                    <dd class="col-sm-8">@Html.DisplayFor(model => model.Book.YtdSales)</dd>
+
+                    <dt class="col-sm-4">Notes:</dt>
+                    <dd class="col-sm-8">@Html.DisplayFor(model => model.Book.Notes)</dd>
+
+                    <dt class="col-sm-4">PublishedDate:</dt>
+                    <dd class="col-sm-8">@Model.Book.PublishedDate.ToString("dd/MM/yyyy")</dd>
+                </dl>
+
+                <form asp-action="DetailBook">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <input type="hidden" asp-for="@Model.Book.BookId" />
+
+                    <div class="form-group">
+                        <label for="AuthorId">AuthorId</label>
+                        <select asp-for="@Model.AuthorId" class="form-control" asp-items="ViewBag.AuthorId"></select>
+                        <span asp-validation-for="@Model.AuthorId" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <button type="submit" class="btn btn-primary">Add</button>
+                    </div>
+                </form>
+
+                @foreach(var item in Model.BookAuthors)
+                {
+                    <h4 class="card-title">Author Other</h4>
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.Author.LastName);
+                        </td>                    
+                    </tr>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="mt-3">
+    <a asp-action="ViewBook" class="btn btn-secondary">Back to List</a>
+</div>
+

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\TrinhHuuTruong.eBookStore.WebClient.props" />
+</Project>
