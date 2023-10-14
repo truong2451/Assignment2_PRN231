@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5dJ/kpx42BKJr+387e7LKoSHKgSjBljvFU85wYrRt6wQJ4wAm4OqIjmRGp/GYFUGtpiX1Tc02VfdHVenYNcRJg==",
+  "dgSpecHash": "KjgNMZ1UGUQ6p6jd+GzH5lgUAqF49j49wX2vARpy0Pbpn3sxKRd7Jh/UipSaSwBIFaNIo1pn3HlYL3KqQzWdQA==",
   "success": true,
-  "projectFilePath": "D:\\Net API\\TrinhHuuTruong.eBookStore\\TrinhHuuTruong.eBookStore.WebAPI\\TrinhHuuTruong.eBookStore.WebAPI.csproj",
+  "projectFilePath": "D:\\Git Repository\\Assignment2_PRN231\\TrinhHuuTruong.eBookStore.WebAPI\\TrinhHuuTruong.eBookStore.WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

@@ -26,7 +26,8 @@ namespace TrinhHuuTruong.eBookStore.WebClient.Controllers
         [HttpPost]
         public async Task<IActionResult> Login(string email, string password)
         {
-            HttpResponseMessage response = await client.PostAsJsonAsync(UserApiUri + "Login", new {email = email, password = password});
+            //HttpResponseMessage response = await client.PostAsJsonAsync(UserApiUri + "Login", new {email = email, password = password});
+            HttpResponseMessage response = await client.PostAsync(UserApiUri + $"Login?email={email}&password={password}", null);
             string strData = await response.Content.ReadAsStringAsync();
 
             var json = JsonConvert.DeserializeObject<Dictionary<string, object>>(strData);

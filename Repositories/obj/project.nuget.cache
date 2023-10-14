@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C3/wUAERvPWK4IvodYw4q2DAJegvfstjNgJwS/LLvJs7ImSnEa6IawtMzNh3q+hZkN39OqnRR0T7l95G4qddEw==",
+  "dgSpecHash": "pYB/pPLvZF7GmnMk3jPAllb181dmSAPNcFDSnb7HIjqnTYXnG50jGiI/rWQdrpyVKogKVS2fPBo4iw86TQZQmw==",
   "success": true,
-  "projectFilePath": "D:\\Net API\\TrinhHuuTruong.eBookStore\\Repositories\\TrinhHuuTruong.eBookStore.Repositories.csproj",
+  "projectFilePath": "D:\\Git Repository\\Assignment2_PRN231\\Repositories\\TrinhHuuTruong.eBookStore.Repositories.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

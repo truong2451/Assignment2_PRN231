@@ -11421,11 +11421,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Net API\\TrinhHuuTruong.eBookStore\\TrinhHuuTruong.eBookStore.WebAPI\\TrinhHuuTruong.eBookStore.WebAPI.csproj",
+      "projectUniqueName": "D:\\Git Repository\\Assignment2_PRN231\\TrinhHuuTruong.eBookStore.WebAPI\\TrinhHuuTruong.eBookStore.WebAPI.csproj",
       "projectName": "TrinhHuuTruong.eBookStore.WebAPI",
-      "projectPath": "D:\\Net API\\TrinhHuuTruong.eBookStore\\TrinhHuuTruong.eBookStore.WebAPI\\TrinhHuuTruong.eBookStore.WebAPI.csproj",
+      "projectPath": "D:\\Git Repository\\Assignment2_PRN231\\TrinhHuuTruong.eBookStore.WebAPI\\TrinhHuuTruong.eBookStore.WebAPI.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Net API\\TrinhHuuTruong.eBookStore\\TrinhHuuTruong.eBookStore.WebAPI\\obj\\",
+      "outputPath": "D:\\Git Repository\\Assignment2_PRN231\\TrinhHuuTruong.eBookStore.WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -11447,11 +11447,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Net API\\TrinhHuuTruong.eBookStore\\Repositories\\TrinhHuuTruong.eBookStore.Repositories.csproj": {
-              "projectPath": "D:\\Net API\\TrinhHuuTruong.eBookStore\\Repositories\\TrinhHuuTruong.eBookStore.Repositories.csproj"
+            "D:\\Git Repository\\Assignment2_PRN231\\Repositories\\TrinhHuuTruong.eBookStore.Repositories.csproj": {
+              "projectPath": "D:\\Git Repository\\Assignment2_PRN231\\Repositories\\TrinhHuuTruong.eBookStore.Repositories.csproj"
             },
-            "D:\\Net API\\TrinhHuuTruong.eBookStore\\TrinhHuuTruong.eBookStore.Services\\TrinhHuuTruong.eBookStore.Services.csproj": {
-              "projectPath": "D:\\Net API\\TrinhHuuTruong.eBookStore\\TrinhHuuTruong.eBookStore.Services\\TrinhHuuTruong.eBookStore.Services.csproj"
+            "D:\\Git Repository\\Assignment2_PRN231\\TrinhHuuTruong.eBookStore.Services\\TrinhHuuTruong.eBookStore.Services.csproj": {
+              "projectPath": "D:\\Git Repository\\Assignment2_PRN231\\TrinhHuuTruong.eBookStore.Services\\TrinhHuuTruong.eBookStore.Services.csproj"
             }
           }
         }

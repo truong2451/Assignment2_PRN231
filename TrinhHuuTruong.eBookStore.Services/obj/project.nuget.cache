@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SdP3FHBEkVoBHoq/BwywvDNGKC3A9VeEBH3tGgNqv6tsyMPY1sMCVj8AJa13E6Eq85vAp4PFIVF7LdYjN7Bi2g==",
+  "dgSpecHash": "20NozcPROgA3BIUyxOhI2rJgDPL2fVk3w9GlSgcgcjCS7YQwJrbScE4hXdpC79xDA/hLXyjMuKgMlrBLvT+QIQ==",
   "success": true,
-  "projectFilePath": "D:\\Net API\\TrinhHuuTruong.eBookStore\\TrinhHuuTruong.eBookStore.Services\\TrinhHuuTruong.eBookStore.Services.csproj",
+  "projectFilePath": "D:\\Git Repository\\Assignment2_PRN231\\TrinhHuuTruong.eBookStore.Services\\TrinhHuuTruong.eBookStore.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

@@ -2340,11 +2340,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Net API\\TrinhHuuTruong.eBookStore\\TrinhHuuTruong.eBookStore.WebClient\\TrinhHuuTruong.eBookStore.WebClient.csproj",
+      "projectUniqueName": "D:\\Git Repository\\Assignment2_PRN231\\TrinhHuuTruong.eBookStore.WebClient\\TrinhHuuTruong.eBookStore.WebClient.csproj",
       "projectName": "TrinhHuuTruong.eBookStore.WebClient",
-      "projectPath": "D:\\Net API\\TrinhHuuTruong.eBookStore\\TrinhHuuTruong.eBookStore.WebClient\\TrinhHuuTruong.eBookStore.WebClient.csproj",
+      "projectPath": "D:\\Git Repository\\Assignment2_PRN231\\TrinhHuuTruong.eBookStore.WebClient\\TrinhHuuTruong.eBookStore.WebClient.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Net API\\TrinhHuuTruong.eBookStore\\TrinhHuuTruong.eBookStore.WebClient\\obj\\",
+      "outputPath": "D:\\Git Repository\\Assignment2_PRN231\\TrinhHuuTruong.eBookStore.WebClient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -2366,8 +2366,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Net API\\TrinhHuuTruong.eBookStore\\Repositories\\TrinhHuuTruong.eBookStore.Repositories.csproj": {
-              "projectPath": "D:\\Net API\\TrinhHuuTruong.eBookStore\\Repositories\\TrinhHuuTruong.eBookStore.Repositories.csproj"
+            "D:\\Git Repository\\Assignment2_PRN231\\Repositories\\TrinhHuuTruong.eBookStore.Repositories.csproj": {
+              "projectPath": "D:\\Git Repository\\Assignment2_PRN231\\Repositories\\TrinhHuuTruong.eBookStore.Repositories.csproj"
             }
           }
         }

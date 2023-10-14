@@ -12,3 +12,17 @@ D:\Net API\TrinhHuuTruong.eBookStore\Repositories\obj\Debug\net6.0\ref\TrinhHuuT
 D:\Net API\TrinhHuuTruong.eBookStore\Repositories\bin\Debug\net6.0\TrinhHuuTruong.eBookStore.Repositories.runtimeconfig.json
 D:\Net API\TrinhHuuTruong.eBookStore\Repositories\obj\Debug\net6.0\TrinhHuuTruong.eBookStore.Repositories.csproj.AssemblyReference.cache
 D:\Net API\TrinhHuuTruong.eBookStore\Repositories\obj\Debug\net6.0\TrinhHuuTruong.eBookStore.Repositories.genruntimeconfig.cache
+D:\Git Repository\Assignment2_PRN231\Repositories\bin\Debug\net6.0\TrinhHuuTruong.eBookStore.Repositories.deps.json
+D:\Git Repository\Assignment2_PRN231\Repositories\bin\Debug\net6.0\TrinhHuuTruong.eBookStore.Repositories.runtimeconfig.json
+D:\Git Repository\Assignment2_PRN231\Repositories\bin\Debug\net6.0\TrinhHuuTruong.eBookStore.Repositories.dll
+D:\Git Repository\Assignment2_PRN231\Repositories\bin\Debug\net6.0\TrinhHuuTruong.eBookStore.Repositories.pdb
+D:\Git Repository\Assignment2_PRN231\Repositories\obj\Debug\net6.0\TrinhHuuTruong.eBookStore.Repositories.csproj.AssemblyReference.cache
+D:\Git Repository\Assignment2_PRN231\Repositories\obj\Debug\net6.0\TrinhHuuTruong.eBookStore.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git Repository\Assignment2_PRN231\Repositories\obj\Debug\net6.0\TrinhHuuTruong.eBookStore.Repositories.AssemblyInfoInputs.cache
+D:\Git Repository\Assignment2_PRN231\Repositories\obj\Debug\net6.0\TrinhHuuTruong.eBookStore.Repositories.AssemblyInfo.cs
+D:\Git Repository\Assignment2_PRN231\Repositories\obj\Debug\net6.0\TrinhHuuTruong.eBookStore.Repositories.csproj.CoreCompileInputs.cache
+D:\Git Repository\Assignment2_PRN231\Repositories\obj\Debug\net6.0\TrinhHuuTruong.eBookStore.Repositories.dll
+D:\Git Repository\Assignment2_PRN231\Repositories\obj\Debug\net6.0\refint\TrinhHuuTruong.eBookStore.Repositories.dll
+D:\Git Repository\Assignment2_PRN231\Repositories\obj\Debug\net6.0\TrinhHuuTruong.eBookStore.Repositories.pdb
+D:\Git Repository\Assignment2_PRN231\Repositories\obj\Debug\net6.0\TrinhHuuTruong.eBookStore.Repositories.genruntimeconfig.cache
+D:\Git Repository\Assignment2_PRN231\Repositories\obj\Debug\net6.0\ref\TrinhHuuTruong.eBookStore.Repositories.dll
